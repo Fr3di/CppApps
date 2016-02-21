@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1413987783 source:c:\users\hp\documents\c++ zadanka rozne\sprzet_rtv_-_dziedziczenie_wielobazowe\main.cpp
+	<iostream>
+	"sprzetrtv.h"
+
+1414074188 c:\users\hp\documents\c++ zadanka rozne\sprzet_rtv_-_dziedziczenie_wielobazowe\sprzetrtv.h
+	<iostream>
+

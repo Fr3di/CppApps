@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415704324 source:c:\users\hp\documents\c++ zadanka rozne\wektor_-_liczby_pierwsze\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+

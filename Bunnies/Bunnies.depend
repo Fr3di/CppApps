@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1416841968 source:c:\users\hp\documents\c++ codeblocks progsy\bunnies\main.cpp
+	"bunny.h"
+
+1416842937 source:c:\users\hp\documents\c++ codeblocks progsy\bunnies\src\bunny.cpp
+	"bunny.h"
+
+1416781238 c:\users\hp\documents\c++ codeblocks progsy\bunnies\include\bunny.h
+	<string>
+	<cstdlib>
+	<deque>
+	<iostream>
+	<ctime>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414013548 source:c:\users\hp\documents\c++ zadanka rozne\minimum_wskazniki\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
